@@ -14,9 +14,9 @@
 
 <div align="center">
   <br> Contato <br> 
-  <a href="https://www.instagram.com/jonasdelara_/" target="_blank"><img src="https://github.com/Jonasdelara/Jonasdelara/blob/main/assetis/instagram.jpg" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/jonasdelara-/" target="_blank"><img src="https://github.com/Jonasdelara/Jonasdelara/blob/main/assetis/linkedin.png" target="_blank"></a> 
   <a href="mailto:jonasdelara_@hotmail.com"><img src="https://github.com/Jonasdelara/Jonasdelara/blob/main/assetis/hotmail.png" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/jonasdelara-/" target="_blank"><img src="https://github.com/Jonasdelara/Jonasdelara/blob/main/assetis/linkedin.png" target="_blank"></a> 
+  <a href="https://www.instagram.com/jonasdelara_/" target="_blank"><img src="https://github.com/Jonasdelara/Jonasdelara/blob/main/assetis/instagram.jpg" target="_blank"></a>
 </div>
 
 <div align="center">
