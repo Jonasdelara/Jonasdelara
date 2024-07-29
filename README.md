@@ -44,5 +44,5 @@
 
 <div align="center">
   
-![snake gif](https://github.com/Jonasdelara/Jonasdelara/blob/output/github-contribution-grid-snake.gif)
+![snake animation](https://github.com/<Jonasdelara>/<Jonasdelara>/blob/output/github-contribution-grid-snake2.svg)
   
