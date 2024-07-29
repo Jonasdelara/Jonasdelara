@@ -3,7 +3,22 @@
   <h1 align="center">
    <br> Olá, seja bem vindo! <br> Eu sou o 
     <a href="https://www.linkedin.com/in/jonasdelara-/">Jonas de lara 😃️</a>
+    
+    
   </h1>
+<div>
+  <h2> Um pouco mais sobre mim:</h2>
+  <h3>Formação:</h3>
+  <p>Atualmente estou participando do programa starter web full stack da growdev, mas ja tive experiencia participando de outro programa que foi o vem ser da DBC e estou sempre em busca de mais conhecimento</p>
+  <h3>experiencias profissionais</h3>
+  <p> Na area de T.I as experiencias que tive foi as que citei a cima e no momento estou buscando uma vaga no mercado de trabalho, mas atualmente trabalho como Mecanico automotivo, mas ja fiz inumeras coisas, atuei como auxiliar de climatizaçao na unimed, pintor em uma grafica, chapista em uma lancheria, auxiliar de marcenaria,auxiliar de produçao em metalurgica e calçado, auxiliar de eletricista.</p>
+  <h3>Estudo</h3>
+  <p>Estou estudando e aprendendo muito sobre Html, CSS, Javascript, Git e Git Hub algo que eu ainda não tinha estudado e estou gostando muito, estou conseguindo realizar alguns projetos pessoas que em breve estarei commitando aqui para mostrar o que estou aprendendo e tambem mostrar um pouco da minha evolução  </p>
+  
+</div>
+
+
+
 
 <div align="center">
   <a href="https://github.com/Jonasdelara">
